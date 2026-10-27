@@ -1,0 +1,32 @@
+[
+  {
+    "id": "save-fast",
+    "name": "Reset as soon as SRAM save is done",
+    "result": "Record seed: same gameplay and in-game time; bot elapsed 1:49:12.78 to 1:49:01.03; -11.75 s; three seeds shift one frame.",
+    "lesson": "Measure when the save is really kept, and carry the clock change into every later gate."
+  },
+  {
+    "id": "red-late",
+    "name": "Keep red HP from Viridian through Lorelei",
+    "result": "E17 RED_LATE arm 66.4 vs base 25.8 fast/1,000h on partial data; later all-in 76.5. Count: Lorelei hit 1/589.",
+    "lesson": "Map what the enemy really does during a red window. Fix wrong beliefs with data."
+  },
+  {
+    "id": "gamble-mode-policy",
+    "name": "Judge and hunt the gamble bundle",
+    "result": "43 vs 33 finishes under 1:50:00 in-game time; 34.2 vs 25.4 per 1,000 game h; best 1:47:51.92 in-game time.",
+    "lesson": "State the target and what it is counted against (total game hours) before choosing changes."
+  },
+  {
+    "id": "all-in-stack",
+    "name": "Combine red window and selective heal risks",
+    "result": "All-in 76.5 fast runs under 1:50:00 in-game time per 1,000h over 1,285 games; best 1:47:02.50 in-game time.",
+    "lesson": "Use good exploratory bundles to hunt, but be modest about which part caused the gain."
+  },
+  {
+    "id": "moon-save-gate",
+    "name": "Gate the Moon save; skip bad seconds",
+    "result": "v12 41/41; v13 540/540 full-pipeline and 44/44 real.",
+    "lesson": "Test the gate plus the program from every arrival phase."
+  }
+]

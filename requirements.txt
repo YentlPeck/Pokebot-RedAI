@@ -1,0 +1,4 @@
+pyboy==2.7.0
+lupa==2.8
+numpy==2.5.3
+Pillow==12.3.0

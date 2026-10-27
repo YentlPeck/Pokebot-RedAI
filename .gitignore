@@ -1,0 +1,25 @@
+# Game assets and private runtime data
+*.gb
+*.gbc
+*.gba
+*.sav
+*.ram
+*.state
+*.state.*
+*.sram
+*.bin
+*.zip
+*.7z
+.env
+.env.*
+*.pem
+*.key
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+runs/
+artifacts/
+pokebot-scratch/
+*.log
+*.jsonl
