@@ -1,6 +1,6 @@
 # Written by Yentl
 
-I tried to see if I could create a pokemon red speedrunning bot. Overall the results were decent. I was able to use the bot from 10 years ago and optimize it. I had hoped to get below the human world record but that was a lot of min maxing which I did not consider usefull anymore. This was my first project using Claude code and Codex together. The claude models are good at coding while the openAI models help with the review and planning. Together they are creating excellent results. 
+I tried to see if I could create a pokemon red speedrunning bot. Overall the results were decent. I was able to copy a bot from 10 years ago and optimize it. I had hoped to get below the human world record time but that was a lot of min maxing which I did not consider usefull anymore. This was my first project using Claude code and Codex together. The claude models are good at coding while the openAI models help with the review and planning. Together they are creating excellent results. 
 
 # Written by Claude
 # PokeBot Red
